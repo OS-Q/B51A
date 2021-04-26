@@ -18,11 +18,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# IoT_Power_Meter_schematics-rescue_AP1117T33
+# IoT_Power_Meter_schematics-rescue_AP1117T33-IoT_Power_Meter_schematics-rescue
 #
-DEF IoT_Power_Meter_schematics-rescue_AP1117T33 U 0 30 Y Y 1 F N
+DEF IoT_Power_Meter_schematics-rescue_AP1117T33-IoT_Power_Meter_schematics-rescue U 0 30 Y Y 1 F N
 F0 "U" 100 -250 50 H V C CNN
-F1 "IoT_Power_Meter_schematics-rescue_AP1117T33" 0 250 50 H V C CNN
+F1 "IoT_Power_Meter_schematics-rescue_AP1117T33-IoT_Power_Meter_schematics-rescue" 0 250 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -40,11 +40,11 @@ X VI 3 -300 0 100 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# IoT_Power_Meter_schematics-rescue_ESP-12
+# IoT_Power_Meter_schematics-rescue_ESP-12-IoT_Power_Meter_schematics-rescue
 #
-DEF IoT_Power_Meter_schematics-rescue_ESP-12 U 0 40 Y Y 1 F N
+DEF IoT_Power_Meter_schematics-rescue_ESP-12-IoT_Power_Meter_schematics-rescue U 0 40 Y Y 1 F N
 F0 "U" 0 -100 50 H V C CNN
-F1 "IoT_Power_Meter_schematics-rescue_ESP-12" 0 100 50 H V C CNN
+F1 "IoT_Power_Meter_schematics-rescue_ESP-12-IoT_Power_Meter_schematics-rescue" 0 100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -72,11 +72,11 @@ X GND 9 0 -900 300 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# IoT_Power_Meter_schematics-rescue_FTDI
+# IoT_Power_Meter_schematics-rescue_FTDI-IoT_Power_Meter_schematics-rescue
 #
-DEF IoT_Power_Meter_schematics-rescue_FTDI U 0 40 Y Y 1 F N
+DEF IoT_Power_Meter_schematics-rescue_FTDI-IoT_Power_Meter_schematics-rescue U 0 40 Y Y 1 F N
 F0 "U" 200 -250 60 H V C CNN
-F1 "IoT_Power_Meter_schematics-rescue_FTDI" -150 -250 60 H V C CNN
+F1 "IoT_Power_Meter_schematics-rescue_FTDI-IoT_Power_Meter_schematics-rescue" -150 -250 60 H V C CNN
 F2 "" 200 -250 60 H V C CNN
 F3 "" 200 -250 60 H V C CNN
 DRAW
@@ -88,11 +88,11 @@ X GND 4 0 -400 200 U 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# IoT_Power_Meter_schematics-rescue_LightSensor
+# IoT_Power_Meter_schematics-rescue_LightSensor-IoT_Power_Meter_schematics-rescue
 #
-DEF IoT_Power_Meter_schematics-rescue_LightSensor S 0 40 Y Y 1 F N
+DEF IoT_Power_Meter_schematics-rescue_LightSensor-IoT_Power_Meter_schematics-rescue S 0 40 Y Y 1 F N
 F0 "S" 300 -150 60 H V C CNN
-F1 "IoT_Power_Meter_schematics-rescue_LightSensor" 500 150 60 H V C CNN
+F1 "IoT_Power_Meter_schematics-rescue_LightSensor-IoT_Power_Meter_schematics-rescue" 500 150 60 H V C CNN
 F2 "" 300 -150 60 H V C CNN
 F3 "" 300 -150 60 H V C CNN
 DRAW
@@ -103,11 +103,11 @@ X VCC 3 0 400 200 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# IoT_Power_Meter_schematics-rescue_MicroSD
+# IoT_Power_Meter_schematics-rescue_MicroSD-IoT_Power_Meter_schematics-rescue
 #
-DEF IoT_Power_Meter_schematics-rescue_MicroSD SD 0 40 Y Y 1 F N
+DEF IoT_Power_Meter_schematics-rescue_MicroSD-IoT_Power_Meter_schematics-rescue SD 0 40 Y Y 1 F N
 F0 "SD" 300 -300 60 H V C CNN
-F1 "IoT_Power_Meter_schematics-rescue_MicroSD" -250 -300 60 H V C CNN
+F1 "IoT_Power_Meter_schematics-rescue_MicroSD-IoT_Power_Meter_schematics-rescue" -250 -300 60 H V C CNN
 F2 "" 300 -300 60 H V C CNN
 F3 "" 300 -300 60 H V C CNN
 DRAW
@@ -121,11 +121,11 @@ X GND 6 0 -450 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# IoT_Power_Meter_schematics-rescue_OLED
+# IoT_Power_Meter_schematics-rescue_OLED-IoT_Power_Meter_schematics-rescue
 #
-DEF IoT_Power_Meter_schematics-rescue_OLED D 0 40 Y Y 1 F N
+DEF IoT_Power_Meter_schematics-rescue_OLED-IoT_Power_Meter_schematics-rescue D 0 40 Y Y 1 F N
 F0 "D" 200 -300 60 H V C CNN
-F1 "IoT_Power_Meter_schematics-rescue_OLED" -150 -300 60 H V C CNN
+F1 "IoT_Power_Meter_schematics-rescue_OLED-IoT_Power_Meter_schematics-rescue" -150 -300 60 H V C CNN
 F2 "" 500 150 60 H V C CNN
 F3 "" 500 150 60 H V C CNN
 DRAW
@@ -137,11 +137,11 @@ X SDA 4 -450 150 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# IoT_Power_Meter_schematics-rescue_Power_connector
+# IoT_Power_Meter_schematics-rescue_Power_connector-IoT_Power_Meter_schematics-rescue
 #
-DEF IoT_Power_Meter_schematics-rescue_Power_connector C 0 40 Y Y 1 F N
+DEF IoT_Power_Meter_schematics-rescue_Power_connector-IoT_Power_Meter_schematics-rescue C 0 40 Y Y 1 F N
 F0 "C" -200 -150 50 H V C CNN
-F1 "IoT_Power_Meter_schematics-rescue_Power_connector" 450 -150 50 H V C CNN
+F1 "IoT_Power_Meter_schematics-rescue_Power_connector-IoT_Power_Meter_schematics-rescue" 450 -150 50 H V C CNN
 F2 "" 500 -200 157 H V C CNN
 F3 "" 500 -200 157 H V C CNN
 DRAW
@@ -151,11 +151,11 @@ X GND 2 0 -400 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# IoT_Power_Meter_schematics-rescue_SW_PUSH
+# IoT_Power_Meter_schematics-rescue_SW_PUSH-IoT_Power_Meter_schematics-rescue
 #
-DEF IoT_Power_Meter_schematics-rescue_SW_PUSH SW 0 40 N N 1 F N
+DEF IoT_Power_Meter_schematics-rescue_SW_PUSH-IoT_Power_Meter_schematics-rescue SW 0 40 N N 1 F N
 F0 "SW" 150 110 50 H V C CNN
-F1 "IoT_Power_Meter_schematics-rescue_SW_PUSH" 0 -80 50 H V C CNN
+F1 "IoT_Power_Meter_schematics-rescue_SW_PUSH-IoT_Power_Meter_schematics-rescue" 0 -80 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW

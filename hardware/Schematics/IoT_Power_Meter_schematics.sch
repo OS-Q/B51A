@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L IoT_Power_Meter_schematics-rescue:ESP-12 U1
+L IoT_Power_Meter_schematics-rescue:ESP-12-IoT_Power_Meter_schematics-rescue U1
 U 1 1 56744217
 P 4550 3800
 F 0 "U1" H 5100 3150 50  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "" H 8650 4300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L IoT_Power_Meter_schematics-rescue:OLED D1
+L IoT_Power_Meter_schematics-rescue:OLED-IoT_Power_Meter_schematics-rescue D1
 U 1 1 56747219
 P 8650 3850
 F 0 "D1" H 8850 3550 60  0000 C CNN
@@ -102,7 +102,7 @@ F 3 "" H 9150 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L IoT_Power_Meter_schematics-rescue:MicroSD SD1
+L IoT_Power_Meter_schematics-rescue:MicroSD-IoT_Power_Meter_schematics-rescue SD1
 U 1 1 567474F3
 P 4550 5850
 F 0 "SD1" H 4850 5550 60  0000 C CNN
@@ -143,7 +143,7 @@ F 3 "" H 4550 6300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L IoT_Power_Meter_schematics-rescue:LightSensor S1
+L IoT_Power_Meter_schematics-rescue:LightSensor-IoT_Power_Meter_schematics-rescue S1
 U 1 1 567479DB
 P 8650 2450
 F 0 "S1" H 8950 2300 60  0000 C CNN
@@ -176,7 +176,7 @@ F 3 "" H 8650 2050 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L IoT_Power_Meter_schematics-rescue:FTDI U3
+L IoT_Power_Meter_schematics-rescue:FTDI-IoT_Power_Meter_schematics-rescue U3
 U 1 1 56747C70
 P 6400 2450
 F 0 "U3" H 6600 2200 60  0000 C CNN
@@ -198,7 +198,7 @@ F 3 "" H 6400 2850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L IoT_Power_Meter_schematics-rescue:SW_PUSH SW1
+L IoT_Power_Meter_schematics-rescue:SW_PUSH-IoT_Power_Meter_schematics-rescue SW1
 U 1 1 56748014
 P 6400 4950
 F 0 "SW1" H 6550 5060 50  0000 C CNN
@@ -236,7 +236,7 @@ Text Notes 5750 1800 0    60   ~ 0
 FTDI chip for programming\n(only attached when programming)
 NoConn ~ 3650 3600
 $Comp
-L IoT_Power_Meter_schematics-rescue:AP1117T33 U2
+L IoT_Power_Meter_schematics-rescue:AP1117T33-IoT_Power_Meter_schematics-rescue U2
 U 1 1 5676A1C5
 P 3850 1600
 F 0 "U2" H 3950 1350 50  0000 C CNN
@@ -307,7 +307,7 @@ $EndComp
 Text Notes 6000 3600 0    60   ~ 0
 The ESP-12 and ESP-12E have GPIO4/5\nswapped, otherwise they are stricly\nthe same, this can be changed in software
 $Comp
-L IoT_Power_Meter_schematics-rescue:Power_connector C1
+L IoT_Power_Meter_schematics-rescue:Power_connector-IoT_Power_Meter_schematics-rescue C1
 U 1 1 56F85C43
 P 2050 1600
 F 0 "C1" H 1850 1450 50  0000 C CNN
